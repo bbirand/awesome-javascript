@@ -75,7 +75,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [component](https://github.com/component/component) - Client package management for building better web applications. [**4,301**]
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager. [**747**]
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository. [**1,482**]
-* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management. [**1,827**]
+* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management. [**1,828**]
 * [Ender](https://github.com/ender-js/Ender) - The no-library library. [**1,740**]
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects. [**1,215**]
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless. [**3,260**]
@@ -91,7 +91,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts. [**1,487**]
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader. [**987**]
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager. [**1,566**]
-* [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader. [**3,468**]
+* [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader. [**3,469**]
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD [**132**]
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD. [**396**]
 
@@ -155,7 +155,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events. [**22,724**]
 * [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications. [**14,563**]
-* [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. [**27,496**]
+* [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. [**27,497**]
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation. [**4,254**]
 * [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces. [**6,286**]
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript. [**6,665**]
@@ -282,7 +282,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier. [**2,945**]
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers. [**13**]
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities. [**643**]
-* [mesh](https://github.com/mojo-js/mesh.js) - Streamable data synchronization utility. [**944**]
+* [mesh](https://github.com/mojo-js/mesh.js) - Streamable data synchronization utility. [**945**]
 
 
 ## Reactive Programming
@@ -354,7 +354,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript. [**2,754**]
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations. [**2,528**]
 * [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library. [**824**]
-* [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web. [**6,124**]
+* [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web. [**6,125**]
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes. [**1,676**]
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript. [**794**]
 * [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image. [**3,235**]
@@ -458,7 +458,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator. [**72**]
 * [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery. [**1,758**]
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations. [**449**]
-* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS. [**9,448**]
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS. [**9,449**]
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators. [**5,750**]
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS. [**3,581**]
 
@@ -483,7 +483,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. [**4,829**]
 * [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key. [**2,619**]
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts. [**1,010**]
-* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination. [**2,070**]
+* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination. [**2,071**]
 * [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events. [**1,007**]
 
 
@@ -523,7 +523,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications. [**2,450**]
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript. [**494**]
 * [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML. [**22,970**]
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent. [**9,024**]
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent. [**9,025**]
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations. [**21**]
 
 
@@ -592,7 +592,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Modals and Popups
 
-* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance. [**6,735**]
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance. [**6,736**]
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element. [**434**]
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups. [**1,677**]
 * [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. [**4,499**]
@@ -605,7 +605,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor) - A simple and fast API to monitor elements as you scroll. [**872**]
 * [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it. [**7,393**]
-* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin. [**7,982**]
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin. [**7,983**]
 * [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller. [**6,077**]
 * [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. [**13,948**]
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device. [**8,615**]
@@ -685,14 +685,14 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes. [**2,446**]
-* [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for <picture>, srcset, sizes [**7,372**]
+* [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for <picture>, srcset, sizes [**7,373**]
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms. [**809**]
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms. [**764**]
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 
 
 # Worth Reading
-* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) [**4,791**]
+* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) [**4,792**]
 
 
 # Other Awesome Lists
